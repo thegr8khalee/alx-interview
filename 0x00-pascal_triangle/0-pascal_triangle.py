@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+"""leetcode
+"""
+
+
 def pascal_triangle(n):
     """_summary_
 
