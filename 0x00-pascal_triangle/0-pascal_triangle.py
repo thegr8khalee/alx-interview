@@ -8,7 +8,7 @@ def pascal_triangle(n):
     """
     if n <= 0:
         return []
-    
+
     first_row = [[1]]
 
     for i in range(n - 1):
