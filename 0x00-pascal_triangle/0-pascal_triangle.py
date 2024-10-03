@@ -1,13 +1,10 @@
 #!/usr/bin/python3
-"""leetcode
-"""
+"""leetcode"""
 
 
 def pascal_triangle(n):
-    """_summary_
-
-    Args:
-        n (_type_): _description_
+    """Creates a list of lists of integers representing
+    the Pascal's triangle of a given integer.
     """
     first_row = [[1]]
 
