@@ -1,5 +1,5 @@
-# #!/usr/bin/python3
-# """alx-interview"""
+#!/usr/bin/python3
+"""alx-interview"""
 
 # import re
 # import signal
@@ -65,9 +65,6 @@
 
 # if __name__ == "__main__":
 #     status()
-
-
-#!/usr/bin/python3
 
 import sys
 
